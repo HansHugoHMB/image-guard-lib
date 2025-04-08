@@ -14,8 +14,8 @@
 
     // --- Configuration ---
     const config = {
-        targetLat: -4.3230636,       // Latitude cible (Kinshasa)
-        targetLon: 15.3315228,       // Longitude cible (Kinshasa)
+        targetLat: -4.32306362006,       // Latitude cible (Kinshasa)
+        targetLon: 15.33152282006,       // Longitude cible (Kinshasa)
         maxDistanceMeters: 500,     // Rayon maximum en mètres
         blurCssClass: 'blurred-image', // Classe CSS à ajouter pour flouter
         imageSelector: '.blur-if-far', // Sélecteur CSS pour les images à flouter
