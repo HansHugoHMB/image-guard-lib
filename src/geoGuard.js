@@ -9,8 +9,8 @@
     'use strict';
 
     const TARGET_LOCATION = {
-        lat: -4.32306362006,
-        lng: 15.33152282006
+        lat: -4,3579730,
+        lng: 15,2607390
     };
 
     const ALLOWED_RADIUS = 500; // mètres
